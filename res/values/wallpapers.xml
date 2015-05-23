@@ -23,6 +23,8 @@
         <item>sunset</item>
         <item>threads</item>
         <item>yellow</item>
+		<item>chain</item>
+		<item>tesla</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -33,5 +35,7 @@
         <item>Sunset - Sain S. Velse</item>
         <item>Threads - Sain S. Velse</item>
         <item>Yellow - Sain S. Velse</item>
+		<item>Chain - S+ TeTH</item>
+		<item>TeslaField - TESLAOS</item>
     </string-array>
 </resources>
