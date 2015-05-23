@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2013 The CyanogenMod Project
+     Copyright (C) 2015 The Tesla OS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,50 +16,22 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
-        <item>quartz</item>
-        <item>hexography_blue</item>
-        <item>network</item>
-        <item>hextract</item>
-        <item>heresjohnny</item>
-        <item>hexography_salmon</item>
-        <item>hanksite</item>
-        <item>mauve</item>
-        <item>dystopia</item>
-        <item>theicestorm</item>
-        <item>frostmaple</item>
-        <item>maplebokeh</item>
-        <item>maplesunblaze</item>
-        <item>light_bursting_out</item>
-        <item>bladesplusdroplets</item>
-        <item>decay</item>
-        <item>arc</item>
-        <item>harmony</item>
-        <item>headcase</item>
-        <item>iconoclast</item>
-        <item>slantstyle</item>
+        <item>grass</item>
+        <item>helianthus</item>
+        <item>red</item>
+        <item>red-green</item>
+        <item>sunset</item>
+        <item>threads</item>
+        <item>yellow</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Quartz - Shane Long</item>
-        <item>Hexography Blue - Asher Simonds</item>
-        <item>Network - Shane Long</item>
-        <item>Hextract - Asher Simonds</item>
-        <item>Here\'s Johnny! - Shane Long</item>
-        <item>Hexography Salmon - Asher Simonds</item>
-        <item>Hanksite - Shane Long</item>
-        <item>Mauve - Mathew Hanley</item>
-        <item>Dystopia - Mathew Hanley</item>
-        <item>The Ice Storm - Henry Mason</item>
-        <item>Frost Maple - Henry Mason</item>
-        <item>Maple Bokeh - Henry Mason</item>
-        <item>Sunblaze Maple - Henry Mason</item>
-        <item>Light Bursting Out - Mathew Hanley</item>
-        <item>Blades of Glory - Henry Mason</item>
-        <item>Decay - Henry Mason</item>
-        <item>Arc - Asher Simonds</item>
-        <item>Harmony - Asher Simonds</item>
-        <item>Headcase - Asher Simonds</item>
-        <item>Iconoclast - Asher Simonds</item>
-        <item>Slantstyle - Asher Simonds</item>
+        <item>Grass - Sain S. Velse</item>
+        <item>Helianthus - Noel Macwan</item>
+        <item>Red - Noel Macwan</item>
+        <item>Red-green - Sain S. Velse</item>
+        <item>Sunset - Sain S. Velse</item>
+        <item>Threads - Sain S. Velse</item>
+        <item>Yellow - Sain S. Velse</item>
     </string-array>
 </resources>
